@@ -1,0 +1,24 @@
+		*********** DANH SACH HOC VIEN CO HOC BONG ***********
+	  HV017       	Nguyen The      Huu	17/09/2001 	 L02    10.00
+	  HV021       	Tran Van        Dat	02/01/2001 	 L06    8.20
+	  HV024       	Ho Thi          Bich	22/04/2001 	 L07    9.00
+	  HV014       	Tran Thi        Nhung	11/02/2003 	 L08    8.70
+	  HV027       	Vo Van          Thinh	03/07/2001 	 L09    8.60
+	  HV030       	Tran Thi        Hong	08/10/2001 	 L10    9.10
+	  HV001       	Nguyen Van      Anh	12/03/2001 	 L11    8.50
+	  HV032       	Le Thi          Trang	25/12/2002 	 L11    8.30
+	  HV033       	Hoang Van       Quan	30/01/2001 	 L12    9.40
+	  HV003       	Le Hoang        Cuong	10/01/2002 	 L13    9.00
+	  HV036       	Do Thi          Ngoc	11/04/2003 	 L13    8.00
+	  HV038       	Tran Thi        Loan	09/06/2002 	 L14    8.80
+	  HV005       	Doan Thi        Trang	30/09/2000 	 L14    8.20
+	  HV039       	Vo Van          Lam	16/07/2000 	 L15    9.20
+	  HV007       	Hoang Thi       Tuyet	02/11/2001 	 L16    9.10
+	  HV042       	Le Thi          Quyen	20/10/2000 	 L16    8.10
+	  HV008       	Nguyen Thanh    Hai	21/05/2003 	 L18    9.30
+	  HV046       	Nguyen Thi      Anh	15/02/2000 	 L18    9.00
+	  HV045       	Hoang Van       Kien	24/01/2003 	 L18    8.50
+	  HV009       	Vo Thi          Yen	13/04/2000 	 L19    8.90
+	  HV048       	Tran Thi        Cam	29/04/2002 	 L19    8.60
+	  HV050       	Bui Thi         Lan	30/06/2003 	 L20    10.00
+	  HV049       	Le Van          Binh	04/05/2000 	 L20    9.30
